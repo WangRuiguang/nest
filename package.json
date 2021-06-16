@@ -78,7 +78,7 @@
     "@nestjs/graphql": "7.10.6",
     "@nestjs/mongoose": "7.2.4",
     "@nestjs/typeorm": "7.1.5",
-    "@types/amqplib": "0.5.17",
+    "@types/amqplib": "0.8.0",
     "@types/bytes": "3.1.0",
     "@types/cache-manager": "3.4.0",
     "@types/chai": "4.2.18",
